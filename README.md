@@ -8,4 +8,4 @@ www.jiunile.com
 
 www.harmonycity.cn
 
-work.jiunile.com/fjccsz
+http://work.jiunile.com/fjccsz
